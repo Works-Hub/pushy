@@ -1,4 +1,5 @@
 # pushy
+
 [![Build Status](https://travis-ci.org/kibu-australia/pushy.svg?branch=master)](https://travis-ci.org/kibu-australia/pushy)
 
 A Clojurescript library for quick and easy HTML5 pushState.
